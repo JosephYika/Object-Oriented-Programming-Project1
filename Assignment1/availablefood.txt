@@ -1,0 +1,3 @@
+Available Food in the cinema:
+a.pop corn
+b.chips

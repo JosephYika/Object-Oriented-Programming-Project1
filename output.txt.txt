@@ -1,0 +1,89 @@
+Hello, how are you doing? My name is Jozef Yika
+
+Hello! Welcome to our cinema. My name is Aleksander and I work here as a Receptionist
+How can I help you? 
+
+I would like to book a ticket for Batman
+
+Sure no problem. How old are you?
+I am 23
+
+Ok you are old enough
+You have succesfully booked a ticket for Movie[Title = Batman, Price 20.0£,  Date Of Showing: Friday, 15:30]
+The payment of 20.0£ has been accepted
+
+Great.Thank you for your help Aleksander
+
+--------------------------------------------------------------------------
+
+Hello, how are you doing? My name is Daria Provencano
+
+Hello! Welcome to our cinema. My name is Julius and I work here as a Assitant Receptionist
+How can I help you? 
+
+I would like to book a ticket for Castle in the sky
+
+Sure no problem. How old are you?
+I am 17
+
+I am sorry you are not old enough to watch this movie
+Oh ! Really. Well, there is nothing I can do. Thank your help. Bye 
+--------------------------------------------------------------------------
+TESTING SCENARIO 4: Customer is old enough to watch a movie, but doesn't have enough money
+
+Unfortunately you don't have enough money for this movie
+Great.Thank you for your help Aleksander
+
+
+TESTING SCENARIO 5: Customer is old enough to watch a movie, doesn't have cash but has savings in the bank
+
+Proceed card payment.... 
+You have succesfully booked a ticket for Movie[Title = Civil War, Price 50.0£,  Date Of Showing: Friday, 15:30]
+The payment of 50.0£ has been accepted
+
+Great.Thank you for your help Aleksander
+
+--------------------------------------------------------------------------
+
+Hello? My name is Alicia Carmen
+
+Hello! Welcome to our cinema. My name is Mark and I work here as a Assitant Receptionist
+How can I help you? 
+
+I would like to book a ticket for a movie
+This is our movie list: [Batman, Castle, Cinderella, Barbie] and since you are a child you are only eligible for the last two
+
+Choose between those two movies and let me know. 
+Enter the name of the movie: 
+asdhj
+There is no such movie showing in our cinema. 
+batman
+You have to choose either Cinderella or Barbie
+yes
+There is no such movie showing in our cinema. 
+cinderella
+I would like to book a ticket for cinderella
+
+Ok. This is a movie you can book a ticket for.
+
+Would you like to pay for the movie straight away?
+Enter Yes/No: 
+sdfkjsd
+You have to choose either Yes or No
+yes
+Since you are a child you are eligible for the 50% discount. You paid 10.0£
+
+You have succesfully booked a ticket for Movie[Title = Cinderella, Price 20.0£,  Date Of Showing: Tuesday 18:00]
+The payment of 10.0£ has been accepted
+Would you like to view our food menu?
+Enter Yes or No: 
+sdkfjsd
+Sorry I didn't undestand. Is it yes or no?: 
+yes
+Here you go:
+Available Food in the cinema:
+a.pop corn
+b.chips
+Enjoy. Bye
+Great.Thank you for your help Mark
+

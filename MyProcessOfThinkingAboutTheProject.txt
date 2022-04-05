@@ -1,0 +1,34 @@
+Cinema Booking a ticket process. 
+
+1. What do I need to know about the cinema booking process step by step? For this coursework I assummed 
+that the customer comes to the cinema to book the ticket. 
+a. Custsomer comes to the cinema
+b. Customer  interacts with the employee to choose the specific movie/date/time
+c. Customer either chooses a film or not ( that can be for  a few reasons)
+	c1. Changed his mind 
+d. Customer either buys a book or not 
+	d1. Doesn't have enough money
+	d2. Any other reason 
+e. Customer leaves the store. 
+
+What Classes do I need? 
+1. Customer - Object 
+2. Employee - Object 
+3. Cinema  - platform for our objects 
+4. Movie  - Object 
+
+What attributes/behaviour these classes will have? 
+
+Movie:
+1. Title, Price, Date/Time showing
+
+Customer:
+1. name, family name, money 
+2. Can choose a movie, pay for the movie/ or not, leave the store
+
+Employee:
+1. Name, Position, 
+2. Process payment from the customer 
+
+
+
