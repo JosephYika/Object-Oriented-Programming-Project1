@@ -35,7 +35,7 @@ It also has the date of showing and the age rating
 
 # UML Class Diagram 
 
-![](UML%20Class%20Diagram.jpg)
+![](Images/UMLdiagram.png)
 
 # Reflective Report
 
@@ -48,7 +48,7 @@ Method ‘bookmovie’ has a specific work flow that begins in the main method a
 What do I mean by that? I mean that I pass specific values in the ‘bookMovie’ , which then are passed to the Customer class into ‘interactWithEmployee’  which resides in the Employee class. 
 This can be presented like so:
 
-![](Images/UML.jpg)
+![](Images/Classes%20Flow.png)
 
 This is what I have in mind when thinking about the ‘work flow’. I am passing values from one place to the other – from one method to another. 
 As it can be seen in the code the ‘interactWithCustomer’ method is invoked on the ‘employee’ which is one of the parameters in the ‘bookMovie’.
