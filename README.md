@@ -35,7 +35,8 @@ It also has the date of showing and the age rating
 
 # UML Class Diagram 
 
-![](Images/UMLdiagram.png)
+
+<img src="Images/UMLdiagram.png" width="1500px"/>
 
 # Reflective Report
 
